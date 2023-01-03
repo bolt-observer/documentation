@@ -2,7 +2,7 @@
 
 Reachability monitoring for your nodes. We run periodic checks and alert you if we're unable to successfully reach your node.
 
-We can alert you on any events impacting reachability of your node and deliver that alert to you through your favorite method. List of supported integrations can be found [here](../bolt.observer/integrations/).
+We can alert you on any events impacting reachability of your node and deliver that alert to you through your favorite method. List of supported integrations can be found [here](../integrations/).
 
 
 

@@ -1,7 +1,7 @@
 # Table of contents
 
 * [bolt.observer](README.md)
-  * [Reachability](readme/reachability.md)
+  * [Reachability](bolt.observer/reachability/README.md)
   * [LiquidOps](bolt.observer/liquidops/README.md)
     * [Api based - pull](readme/liquidops/guide.md)
     * [Agent based - push](readme/liquidops/agent-based-push.md)
