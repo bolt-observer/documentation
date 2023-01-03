@@ -6,8 +6,8 @@ description: Product documentation for bolt observer
 
 Welcome to home of our documentation. Here you can find descriptions of our products and how they work, what features they offer and how to use them.
 
-{% content-ref url="bolt.observer/reachability/" %}
-[reachability](bolt.observer/reachability/)
+{% content-ref url="readme/reachability.md" %}
+[reachability.md](readme/reachability.md)
 {% endcontent-ref %}
 
 {% content-ref url="bolt.observer/liquidops/" %}
