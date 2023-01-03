@@ -1,5 +1,5 @@
 ---
-description: Product documentation for bolt observer
+description: Product documentation for bolt.observer
 ---
 
 # bolt.observer
