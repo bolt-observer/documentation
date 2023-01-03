@@ -4,7 +4,7 @@ description: Product documentation for bolt observer
 
 # bolt.observer
 
-Welcome to home of our documentation. Here you can find descriptions of our products and how they work, what features they offer and how to use them.
+Welcome to home of [bolt.observer](https://bolt.observer/) documentation. Here you can find descriptions of our products and how they work, what features they offer and how to use them.
 
 {% content-ref url="bolt.observer/reachability/" %}
 [reachability](bolt.observer/reachability/)
