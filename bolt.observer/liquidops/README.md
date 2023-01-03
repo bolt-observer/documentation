@@ -7,9 +7,14 @@ LiquidOps is a product aimed at helping you manage liquidity of your lightning n
 Features:
 
 * alerting on liquidity events
-* alerting on channel status
-* alerting on new opened channels&#x20;
-* alerting on closed channels&#x20;
+  * node level inbound or outbound capacity alerts&#x20;
+  * channel specific configurable inbound or outbound capacity alerts &#x20;
+* alerting on channel status (active/inactive)
+* alerting on channel closing or opening
+  * node level alerting on new opened channels or closed channels&#x20;
+  * channel specific alerts for closing&#x20;
+
+
 
 ### Data input
 
@@ -23,3 +28,8 @@ We have two ways to obtain needed data from your node to facilitate alerting, de
 [agent-based-push.md](../../readme/liquidops/agent-based-push.md)
 {% endcontent-ref %}
 
+### Data and privacy
+
+bolt.observer is a SaaS platform and as that it means that data will be shared with us. If you are using our [agent](../../readme/liquidops/agent-based-push.md) then you are in complete control what and how much are you sharing with us. You can specifiy which specific channels and how precise the data you share with us will be. Data you share with us as part of our LiquidOps product belongs to you and is used exclusively for your needs.&#x20;
+
+Our agent is open source so you can review what is being done. For more detailed overview of how agent works please refer to its [repository](https://github.com/bolt-observer/agent).

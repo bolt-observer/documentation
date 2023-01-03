@@ -1,6 +1,12 @@
+---
+description: integrations with external services and platforms
+---
+
 # Integrations
 
-Our reachability monitoring provides various options for alert delivery:
+### Alerting
+
+Our platform provides various options for alert delivery:
 
 * [Discord](discord.md)
 * [Email](email.md)

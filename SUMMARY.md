@@ -6,7 +6,6 @@
   * [LiquidOps](bolt.observer/liquidops/README.md)
     * [Api based - pull](readme/liquidops/guide.md)
     * [Agent based - push](readme/liquidops/agent-based-push.md)
-    * [Guide](readme/liquidops/guide-1.md)
   * [Explorer](bolt.observer/explorer.md)
   * [Integrations](bolt.observer/integrations/README.md)
     * [Discord](bolt.observer/integrations/discord.md)
