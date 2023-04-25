@@ -6,9 +6,11 @@ Each workflow offers the flexibility to combine a variety of triggers and action
 
 Here are some existing actions that you can use:
 
-{% content-ref url="receive-a-notification.md" %}
-[receive-a-notification.md](receive-a-notification.md)
+{% content-ref url="send-a-notification.md" %}
+[send-a-notification.md](send-a-notification.md)
 {% endcontent-ref %}
 
-
+{% content-ref url="perform-auto-swaps/" %}
+[perform-auto-swaps](perform-auto-swaps/)
+{% endcontent-ref %}
 
