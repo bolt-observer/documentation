@@ -22,7 +22,7 @@ After clicking on “Copy Webhook URL”, your webhook will be saved into your c
 
 Paste into “Webhook URL”
 
-![Untitled (3)](https://user-images.githubusercontent.com/100695254/173592466-54019b64-a6ea-4dc8-ba3d-239830da714b.png)
+<figure><img src="../../.gitbook/assets/Discord.png" alt=""><figcaption></figcaption></figure>
 
 The new alert is now ready. To make sure the integration works properly, click and test and you will receive the following message in your channel or as a DM.
 

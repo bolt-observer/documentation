@@ -58,10 +58,6 @@ From the field “API Key”, copy the key in the clipboard.
 
 ![Untitled (11)](https://user-images.githubusercontent.com/100695254/176130666-06bbe30b-6ab3-4e31-8f96-9b25da8a435e.png)
 
-In [bolt.observer](http://bolt.observer/), click on “Add new alert” and select “Opsgenie” alert type. Paste the key in the field “API Key” and select your region. Don't forget to press the “Save” button.
+In [bolt.observer](http://bolt.observer/), select “Opsgenie” notification type. Paste the key in the field “API Key” and select your region. Don't forget to press the “Save workflow” button.
 
-![Untitled (12)](https://user-images.githubusercontent.com/100695254/176130806-5a336983-b051-40e8-9e09-e1c864a4ada6.png)
-
-Make sure your alert and integration work properly by clicking on “test”. A message “Alert sent” should appear at the bottom of your screen and you should receive an alert message on your email (or other notification method chosen)
-
-![Untitled (13)](https://user-images.githubusercontent.com/100695254/176130930-c1d56aeb-e559-40bc-9bc6-40dd517bd15d.png)
+<figure><img src="../../.gitbook/assets/Opsgenie.png" alt=""><figcaption></figcaption></figure>

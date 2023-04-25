@@ -2,17 +2,14 @@
 description: integrations with external services and platforms
 ---
 
-# Integrations
-
-### Alerting
+# Integration configuration
 
 Our platform provides various options for alert delivery:
 
-* [Discord](discord.md)
 * [Email](email.md)
+* [Telegram](telegram.md)
+* [Slack](slack.md)
+* [Discord](discord.md)
 * [OpsGenie](opsgenie.md)
 * [PagerDuty](pagerduty.md)
-* [Slack](slack.md)
-* [Telegram](telegram.md)
-* Webhook
 * Mattermost

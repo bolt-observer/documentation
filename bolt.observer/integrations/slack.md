@@ -22,12 +22,10 @@ Note: notifications can be received either in a channel or as a direct message
 
 ![Untitled (3)](https://user-images.githubusercontent.com/100695254/173595620-d2e4ef47-5378-47df-a4d4-ee52a0a7a446.png)
 
-Once the access is granted, you can copy the webhook URL and insert it into the Slack integration window in bolt.observer
-
 ![Untitled (4)](https://user-images.githubusercontent.com/100695254/173595707-a1657cd6-fecc-4d90-b1fa-39ec3088cad6.png)
 
-\##Integration in bolt.observer ![Untitled (5)](https://user-images.githubusercontent.com/100695254/173595842-d521002f-035b-45a8-9283-4f0df3a9aaae.png)
+Once the access is granted, you can copy the webhook URL and insert it into the Slack integration window in the workflow.&#x20;
 
-The new alert is now ready. To make sure the integration works properly, you can test it by clicking on test and you will receive the following message in your channel or as a DM.
+<figure><img src="../../.gitbook/assets/Slack.png" alt=""><figcaption></figcaption></figure>
 
-![Untitled (6)](https://user-images.githubusercontent.com/100695254/173596065-17682f7c-47ff-42d8-a920-46fa44f69748.png)
+The new alert is now ready.&#x20;
