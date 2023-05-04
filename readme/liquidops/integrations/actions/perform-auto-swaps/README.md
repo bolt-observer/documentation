@@ -33,6 +33,12 @@ An auto swap is a proactive action configured by a node operator in anticipation
 
 <figure><img src="../../../../../.gitbook/assets/Screenshot from 2023-04-25 17-28-57.png" alt=""><figcaption><p>Illustration of auto swaps-out</p></figcaption></figure>
 
+#### Auto swap logic
+
+Once the workflow is created, the auto swap feature will remain in a waiting state until the trigger is activated by crossing a certain level. Once the trigger is activated, the workflow will initiate various steps based on the following logic:
+
+<figure><img src="../../../../../.gitbook/assets/Graphs - Auto swap flowchart.jpg" alt=""><figcaption><p>Auto swap flowchart</p></figcaption></figure>
+
 #### Fees breakdown
 
 * Bolt Observer doesn't charge any fees.
