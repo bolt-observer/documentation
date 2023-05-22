@@ -8,7 +8,7 @@ Our platform provides various options for alert delivery:
 
 * [Discord](discord.md)
 * [Email](email.md)
-* Nostr
+* [Nostr](../../readme/integrations/nostr.md)
 * [OpsGenie](opsgenie.md)
 * [PagerDuty](pagerduty.md)
 * [Slack](slack.md)
