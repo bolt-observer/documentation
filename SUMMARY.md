@@ -34,4 +34,5 @@
     * [Discord](bolt.observer/integrations/discord.md)
     * [Opsgenie](bolt.observer/integrations/opsgenie.md)
     * [PagerDuty](bolt.observer/integrations/pagerduty.md)
+    * [Nostr](readme/integrations/nostr.md)
   * [Reachability](bolt.observer/reachability/README.md)

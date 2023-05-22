@@ -6,10 +6,11 @@ description: integrations with external services and platforms
 
 Our platform provides various options for alert delivery:
 
-* [Email](email.md)
-* [Telegram](telegram.md)
-* [Slack](slack.md)
 * [Discord](discord.md)
+* [Email](email.md)
+* Nostr
 * [OpsGenie](opsgenie.md)
 * [PagerDuty](pagerduty.md)
+* [Slack](slack.md)
+* [Telegram](telegram.md)
 * Mattermost
