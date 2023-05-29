@@ -22,3 +22,6 @@ Welcome to home of [bolt.observer](https://bolt.observer/) documentation. Here y
 [integrations](bolt.observer/integrations/)
 {% endcontent-ref %}
 
+{% content-ref url="readme/guides/" %}
+[guides](readme/guides/)
+{% endcontent-ref %}

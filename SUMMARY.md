@@ -36,3 +36,5 @@
     * [Slack](bolt.observer/integrations/slack.md)
     * [Telegram](bolt.observer/integrations/telegram.md)
   * [Reachability](bolt.observer/reachability/README.md)
+  * [Guides](readme/guides/README.md)
+    * [Explorer: advanced search](readme/guides/explorer-advanced-search.md)
