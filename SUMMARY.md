@@ -38,3 +38,4 @@
   * [Reachability](bolt.observer/reachability/README.md)
   * [Guides](readme/guides/README.md)
     * [Explorer: advanced search](readme/guides/explorer-advanced-search.md)
+    * [Create a workflow with auto swaps](readme/guides/create-a-workflow-with-auto-swaps.md)
