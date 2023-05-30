@@ -5,8 +5,8 @@ Prerequisites:
 * API reachable from our IP addresses:&#x20;
   * **34.170.53.37 - New**
   * **34.70.20.229 - New**
-  * ~~3.233.3.134~~- Old. IP is not valid since June 2nd, 2023.
-  * ~~54.173.247.208~~ - Old. IP is not valid since June 2nd, 2023.
+  * ~~3.233.3.134~~- Old. IP is not valid from June 1st, 2023.
+  * ~~54.173.247.208~~ - Old. IP is not valid from June 1st, 2023.
 
 You need to have those IPs whitelisted. For LND we support both gRPC (usually on TCP port 10009) and REST API (usually running on TCP port 8080), so either of them should be enough (we prefer gRPC though). For CoreLightning we use `commando` so only lightning port (TCP 9735) should be reachable from our IPs (usually is is open for everyone already since else nobody can open a channel with your node).
 
