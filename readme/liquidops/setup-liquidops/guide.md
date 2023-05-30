@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-* API reachable from our IP addresses (3.233.3.134, 54.173.247.208)
+* API reachable from our IP addresses (3.233.3.134, 54.173.247.208, 34.170.53.37, 34.70.20.229)
 
 You need to have those IPs whitelisted. For LND we support both gRPC (usually on TCP port 10009) and REST API (usually running on TCP port 8080), so either of them should be enough (we prefer gRPC though). For CoreLightning we use `commando` so only lightning port (TCP 9735) should be reachable from our IPs (usually is is open for everyone already since else nobody can open a channel with your node).
 
