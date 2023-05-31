@@ -11,3 +11,7 @@ description: Find guides, tutorials and how-tos.
 {% content-ref url="create-a-workflow-with-auto-swaps.md" %}
 [create-a-workflow-with-auto-swaps.md](create-a-workflow-with-auto-swaps.md)
 {% endcontent-ref %}
+
+{% content-ref url="agent-configuration-auto-swaps.md" %}
+[agent-configuration-auto-swaps.md](agent-configuration-auto-swaps.md)
+{% endcontent-ref %}
