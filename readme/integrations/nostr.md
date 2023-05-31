@@ -8,7 +8,7 @@ Include our relay by connecting to `wss://nostr-01.bolt.observer` on your nostr 
 
 In Settings > Network, add bolt.observer relay and click **Add**. Don't forget to click on **Save relays publicly** button.
 
-<figure><img src="../../.gitbook/assets/nostr2 (1).png" alt=""><figcaption><p>nostr setup: add a relay</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/nostr2.png" alt=""><figcaption><p>nostr setup: add a relay</p></figcaption></figure>
 
 Lastly, make sure to follow the _bolt.observer alerts_ account with the `npub1qqqqqur6gc4nmtjke9gpncntwuf32xkrwud8wq5gwjp07n6qkhasv5qkpv` pubkey.
 
@@ -34,7 +34,7 @@ In the notification page, click on **Add notification**
 
 Select nostr as a notification type as illustrated below:&#x20;
 
-<figure><img src="../../.gitbook/assets/NewIntegration Nostr2.png" alt=""><figcaption><p>Nostr notification setup</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/NewIntegration Nostr2 (1).png" alt=""><figcaption><p>Nostr notification setup</p></figcaption></figure>
 
 Enter your account's pubkey and click on **Save**.
 

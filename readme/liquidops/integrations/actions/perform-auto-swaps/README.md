@@ -25,7 +25,7 @@ There are three common scenarios where submarine swaps can be used to address li
 
 A submarine swap is initiated by an operator manually when the liquidity of a channel or node is too low. As illustrated below, there is always a delay between the depletion of the channel and the detection of that state, resulting in the channel being rendered unusable for a certain period of time.
 
-<figure><img src="../../../../../.gitbook/assets/Graphs - Frame 1.jpg" alt=""><figcaption><p>Submarine swaps lifecycle</p></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/Graphs - Frame 1 (1).jpg" alt=""><figcaption><p>Submarine swaps lifecycle</p></figcaption></figure>
 
 ### Auto swaps
 

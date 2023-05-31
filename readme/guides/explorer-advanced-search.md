@@ -20,7 +20,7 @@ In some cases, larger lightning nodes impose size limits on incoming channels. I
 
 This is a screenshot of all the nodes whose minimum channel size limit is lower or equal to 1,000,000 sats. &#x20;
 
-<figure><img src="../../.gitbook/assets/Explorer4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Explorer4 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
