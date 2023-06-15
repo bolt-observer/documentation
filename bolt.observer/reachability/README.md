@@ -21,3 +21,18 @@ Basic tcp check to see if your node is reachable on port 9735 over internet. Sup
 **Tor**
 
 Basic tcp check to see if your node is reachable on port 9735 over Tor network.
+
+
+
+### Checks performance
+
+#### Builder plan
+
+In the free version, we conduct TCP, TOR, and Lightning Network checks at best effort, and the interval between checks can extend up to 15 minutes.
+
+#### Pro and Business plans
+
+In our Pro and Business plans, specifically designed to meet the needs of more demanding nodes, we offer faster checks at a 60-second interval. A quicker detection enables swifter troubleshooting leading to a better customer experience.
+
+
+
