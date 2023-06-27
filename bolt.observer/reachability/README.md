@@ -14,6 +14,12 @@ You can use any combination of checks for your node,limited only by connectivity
 
 We send a small probe over lightning network to see if your node responds. Checks are run on multiple nodes positioned in different parts of the network to ensure connectivity and prevent false positive alerts.
 
+{% hint style="info" %}
+To ensure successful checks, your node should have an inbound liquidity exceeding 100 sats and a minimum HTLC size below 100 sats.&#x20;
+
+If you are not sure about your current inbound liquidity level, you have the option to establish workflows that will notify you when your liquidity falls below a specific threshold in [node-and-liquidity-automation.md](../../readme/liquidops/node-and-liquidity-automation.md "mention")
+{% endhint %}
+
 **TCP**
 
 Basic tcp check to see if your node is reachable on port 9735 over internet. Supports ipv4 and ipv6.
