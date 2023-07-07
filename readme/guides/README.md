@@ -19,3 +19,7 @@ description: Find guides, tutorials and how-tos.
 {% content-ref url="setup-liquidops-on-voltage-nodes-api-based-pull.md" %}
 [setup-liquidops-on-voltage-nodes-api-based-pull.md](setup-liquidops-on-voltage-nodes-api-based-pull.md)
 {% endcontent-ref %}
+
+{% content-ref url="setup-liquidops-on-voltage-nodes-agent-based-push.md" %}
+[setup-liquidops-on-voltage-nodes-agent-based-push.md](setup-liquidops-on-voltage-nodes-agent-based-push.md)
+{% endcontent-ref %}
