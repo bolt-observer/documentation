@@ -15,3 +15,11 @@ description: Find guides, tutorials and how-tos.
 {% content-ref url="agent-configuration-auto-swaps.md" %}
 [agent-configuration-auto-swaps.md](agent-configuration-auto-swaps.md)
 {% endcontent-ref %}
+
+{% content-ref url="setup-liquidops-on-voltage-nodes-api-based-pull.md" %}
+[setup-liquidops-on-voltage-nodes-api-based-pull.md](setup-liquidops-on-voltage-nodes-api-based-pull.md)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

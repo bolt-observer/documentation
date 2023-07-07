@@ -48,7 +48,7 @@ To perform a test on your recently created nostr notification, navigate to the N
 
 You will receive an alert test notification in your nostr DMs.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ```
 ```

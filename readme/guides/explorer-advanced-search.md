@@ -39,7 +39,7 @@ Find nodes with the following criteria:&#x20;
 * **number of hops** = exactly at 2 hops away from your node
 * 50 < **Betweenness Centrality** < 500
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Results
 

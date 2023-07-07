@@ -29,7 +29,7 @@ This options is helpful when the mempool is congested and on-chain fees skyrocke
 
 Here is an example of agent settings that enable auto swaps:
 
-<figure><img src="../../.gitbook/assets/Untitled(2).png" alt=""><figcaption><p>Agent configuration CLI: auto swap</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Agent configuration CLI: auto swap</p></figcaption></figure>
 
 For more details about auto swaps, please refer to the following link:&#x20;
 
