@@ -41,3 +41,4 @@
     * [Create a workflow with auto swaps](readme/guides/create-a-workflow-with-auto-swaps.md)
     * [Agent configuration: auto swaps](readme/guides/agent-configuration-auto-swaps.md)
     * [Setup LiquidOps on Voltage nodes (API based - pull)](readme/guides/setup-liquidops-on-voltage-nodes-api-based-pull.md)
+    * [Setup LiquidOps on Voltage nodes (agent based - push)](readme/guides/setup-liquidops-on-voltage-nodes-agent-based-push.md)
